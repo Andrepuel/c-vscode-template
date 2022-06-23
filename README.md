@@ -9,7 +9,7 @@ Extensions
 Usefull Commands
 ----------------
 
-Open Command Pallete pressing CTRL+SHIFT+P:
+Open Command Pallete pressing CTRL+SHIFT+P (or CTRL+P and prepend the command name with >):
 
 * CMake: Debug
   * Compile and starts a debug session with the VSCode integrated debugger.
